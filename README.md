@@ -1,6 +1,6 @@
 # Steganography-jpg
 
-This is a Python script that provides three functions to perform steganography on JPG files. It allows users to append, delete, and extract hidden data in a JPG file.
+This is a Python script that provides three functions to perform steganography on JPG files. It allows users to append, delete, and extract text or executables in a JPG file.
 
 ## Requirements
 To run this script, you need to have Python and the following packages installed:
