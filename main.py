@@ -76,12 +76,6 @@ def extract_data(targetfile, type, destination):
                 click.echo("Written extracted executable")
 
 
-
-
-
-
-
-
 commands.add_command(extract_data)
 commands.add_command(delete_data)
 commands.add_command(append_data)
